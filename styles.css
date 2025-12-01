@@ -28,8 +28,11 @@
 	justify-content:space-between;
 	align-items:center;
 }
+.media-icons{
+	display:flex;
+}
 .media-icons a{
-	display:inline-flex;
+	display:flex;
 	width:42px;
 	height:42px;
 	align-items:center;
